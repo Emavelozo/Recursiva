@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursiva", "Recursiva\Recursiva.csproj", "{EF4E2D4E-364D-4E81-9DE0-5C6FBA4D2A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capaDominio", "capaEntidad\capaDominio.csproj", "{D997BF82-982A-48B1-873F-DBEDECEAB876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capaDatos", "capaDatos\capaDatos.csproj", "{EBCA1D07-030D-4B4C-8808-E05A54090BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4E2D4E-364D-4E81-9DE0-5C6FBA4D2A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4E2D4E-364D-4E81-9DE0-5C6FBA4D2A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4E2D4E-364D-4E81-9DE0-5C6FBA4D2A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4E2D4E-364D-4E81-9DE0-5C6FBA4D2A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D997BF82-982A-48B1-873F-DBEDECEAB876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D997BF82-982A-48B1-873F-DBEDECEAB876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D997BF82-982A-48B1-873F-DBEDECEAB876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D997BF82-982A-48B1-873F-DBEDECEAB876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCA1D07-030D-4B4C-8808-E05A54090BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCA1D07-030D-4B4C-8808-E05A54090BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCA1D07-030D-4B4C-8808-E05A54090BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCA1D07-030D-4B4C-8808-E05A54090BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ED19050-BBE9-4591-A8AF-B71C99C6F062}
+	EndGlobalSection
+EndGlobal
